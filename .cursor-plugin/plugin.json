@@ -1,0 +1,15 @@
+{
+  "name": "mays",
+  "description": "Connect Cursor to Mays, operations software for restaurants and cafés: schedules and who is on, approvals, checklists, temperatures, sales and labor, timecards, tips, inventory, orders and the knowledge base, with changes previewed and confirmed first.",
+  "version": "1.0.0",
+  "author": {
+    "name": "YYVZ LLC dba Mays.App"
+  },
+  "homepage": "https://mays.app",
+  "repository": "https://github.com/mays-app/mays-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["restaurant", "cafe", "scheduling", "timecards", "labor", "checklists", "inventory", "operations"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
